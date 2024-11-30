@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KehnKorir
 - 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...business and information technology
+- 🌱 I’m currently learning ...Kotlin
 - 💞️ I’m looking to collaborate on ...enhancement in coding productivity
 - 📫 How to reach me ...
 My email : kehnkorir69@gmail.com
